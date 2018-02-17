@@ -2,12 +2,11 @@
 
 ## Projects on GitHub
 
-### Learning
+### Most important
 
-I use a R report to direct my training and learning so I every day may 
-get closer to the best version of myself.
-
-  - [Learning Dashboard](Learning-Dashboard.html)
+  - [Learning Dashboard](Learning-Dashboard.html) I use a R report to direct my training and learning so I every day may get closer to the best version of myself.
+  - [Pomodoro web tracker](https://github.com/stho32/pomodoroWebTracker) [Start this application](https://stho32.github.io/pomodoroWebTracker/Source/index.html)
+  - [This overview page](https://github.com/stho32/Overview) More overall structure for my repositories
 
 ### The "basement"
   - [GitProjectTemplating](https://github.com/stho32/GitProjectTemplating) is a shell script that helps me derive github repositories from other github repositories by creating a copy, not a fork. I have a hand full of Repositories that are actually project templates. That makes having a default structure easier.
