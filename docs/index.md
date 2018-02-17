@@ -8,13 +8,13 @@ get closer to the best version of myself.
 # Projects on GitHub
 
 ## The "basement"
-  - https://github.com/stho32/GitProjectTemplating is a shell script that helps me derive github repositories from other github repositories by creating a copy, not a fork. I have a hand full of Repositories that are actually project templates. That makes having a default structure easier.
+  - (GitProjectTemplating)[https://github.com/stho32/GitProjectTemplating] is a shell script that helps me derive github repositories from other github repositories by creating a copy, not a fork. I have a hand full of Repositories that are actually project templates. That makes having a default structure easier.
     - https://github.com/stho32/ProjectTemplate-Empty Empty project template.
     - https://github.com/stho32/ProjectTemplate-HTML HTML project template
 
-  - https://github.com/stho32/Prinzipien The principles I use as a base for my life. Every now and then I take some time and think about things and try to develop them. Sometimes motivated by a great book, sometimes just derived from the things that happen to me.
+  - https://github.com/stho32/Prinzipien The principles I use as a base for my life. Every now and then I take some time and think about things and try to develop them. Sometimes motivated by a great book, sometimes just derived from the things that happen to me. (german)
 
-  - https://github.com/stho32/Programmiersprachenstack What programming languages do I use, why and what for. Sooner or later this will get included in my learning dashboard as those discisions directly influence what I am looking for when I learn new stuff.
+  - https://github.com/stho32/Programmiersprachenstack What programming languages do I use, why and what for. Sooner or later this will get included in my learning dashboard as those discisions directly influence what I am looking for when I learn new stuff. (german)
 
 ## R
 
