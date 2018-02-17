@@ -22,7 +22,7 @@ get closer to the best version of myself.
 
 R is an awesome statistical, functional language. 
 
-  - [FinancialOverviewR](https://github.com/stho32/FinancialOverviewR) is a small library about personal finances. I wanted to fully automate my way to think about my money. It may be of help to you to.
+  - [FinancialOverviewR](https://github.com/stho32/FinancialOverviewR) is a small library about personal finances. I wanted to fully automate my way to think about my money.
 
 ### Team Treehouse (teamtreehouse.com)
 
