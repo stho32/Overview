@@ -16,6 +16,8 @@
 
   - [Programmiersprachenstack](https://github.com/stho32/Programmiersprachenstack) What programming languages do I use, why and what for. Sooner or later this will get included in my learning dashboard as those discisions directly influence what I am looking for when I learn new stuff. (german)
 
+  - Code Style for [javascript](https://github.com/stho32/idiomatic.js)
+
 ### Javascript
 
   - [NpmPackageChooser](https://github.com/stho32/NpmPackageChooser) is a utility that applies a set of best practices about how to choose an npm package automatically. So you can type a command line with the packages you want to compare and it tells you why it thinks X is the best choice.
