@@ -5,7 +5,7 @@
 ### Most important
 
   - [Learning Dashboard](Learning-Dashboard.html) I use a R report to direct my training and learning so I every day may get closer to the best version of myself.
-  - [Pomodoro web tracker](https://github.com/stho32/pomodoroWebTracker) [Start this application](https://stho32.github.io/pomodoroWebTracker/Source/index.html)
+  - [Pomodoro web tracker](https://github.com/stho32/pomodoroWebTracker) &lt; [Start this application](https://stho32.github.io/pomodoroWebTracker/Source/index.html) &gt;
 
 ### The "basement"
   - [GitProjectTemplating](https://github.com/stho32/GitProjectTemplating) is a shell script that helps me derive github repositories from other github repositories by creating a copy, not a fork. I have a hand full of Repositories that are actually project templates. That makes having a default structure easier.
@@ -17,6 +17,8 @@
   - [Programmiersprachenstack](https://github.com/stho32/Programmiersprachenstack) What programming languages do I use, why and what for. Sooner or later this will get included in my learning dashboard as those discisions directly influence what I am looking for when I learn new stuff. (german)
 
   - Code Style for [javascript](https://github.com/stho32/idiomatic.js)
+
+  - [Quality assurance checklists](https://github.com/stho32/Quality-Checklists)
 
 ### Javascript
 
