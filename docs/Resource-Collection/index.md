@@ -2,6 +2,10 @@
 
 The resources in this file are ordered by probable importance. 
 
+## We are very agile, what does that mean?
+
+This video does a great job explaining:
+  - https://www.youtube.com/watch?v=yao5XLJqogQ
 
 ## Pair programming / coding dojo
 
