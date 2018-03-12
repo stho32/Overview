@@ -35,3 +35,8 @@ R is an awesome statistical, functional language.
 Taking part in the treehouse community and techdegree for javascript I have a bunch of github repositories that are only about that. You may have a look at them. Mostly I just "wrote what was required", sometimes I added funny things I wanted to try out additionally. I'll probably revisit them after I have finally created my random-git-repository-training-tool that I wanted to write for so long :p. 
 
   - [My Treehouse Repositories](https://github.com/stho32?utf8=%E2%9C%93&tab=repositories&q=Treehouse&type=&language=)
+
+### Resource collection
+
+  - [Resource collection](Resource-Collection/index.md) is a list of ressources which I found online, suited for onboarding and answering questions
+
