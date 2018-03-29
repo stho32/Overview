@@ -38,5 +38,5 @@ Taking part in the treehouse community and techdegree for javascript I have a bu
 
 ### Resource collection
 
-  - [Resource collection](Resource-Collection/index.md) is a list of ressources which I found online, suited for onboarding and answering questions
+  - [Resource collection](Resource-Collection/index.md) is a list of ressources which I found online, suited for <span style="font-weight: bold; color:red">onboarding</span> and answering questions
 
